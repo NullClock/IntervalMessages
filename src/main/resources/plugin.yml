@@ -1,0 +1,6 @@
+name: IntervalMessages
+main: xyz.xapktech.intervalMessages.IntervalMessagesPlugin
+version: 1.0
+api-version: 1.8
+author: [NullClock, XAPK Enterprises, Memblu]
+description: Sends a random message from the set of messages you create at a sepcified interval.

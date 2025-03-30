@@ -1,0 +1,6 @@
+interval: 60 # interval in seconds
+name: "[Server]" # name that shows when the message is sent
+messages: # list of messages to randomly pick from to send
+  - "Welcome to our server!"
+  - "Remember to read the rules."
+  - "Check out our website for more info."
